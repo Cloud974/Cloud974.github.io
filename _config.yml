@@ -5,7 +5,7 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Michael Fournier
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -19,23 +19,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: 4nierMike@gmail.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: "Cloud974"
+  facebook: "cloud974"
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "Cloud974"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: "4niermike"
+  linkedin:  https://www.linkedin.com/in/michael-fournier-4bb0a7a0/
   pinterest:
-  reddit:
+  reddit: Cloud974
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: "4nierMike"
   wordpress:
   youtube:
 
