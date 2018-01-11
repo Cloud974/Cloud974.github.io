@@ -1,27 +1,27 @@
 ---
 layout: post
 title: Honeydew
-feature-img: "img/Landing-honeydew.png"
-thumbnail-path: "img/Landing-honeydew.png"
-short-description: Honeydew is task management app designed to be a simple and engaging UI. 
+feature-img: "img/honeydew/Landing-honeydew.png"
+thumbnail-path: "img/honeydew/Landing-honeydew.png"
+short-description: A task management app designed to be a simple and engaging UI.
 ---
 # Honeydew
 
 This is a task management web app built primarily to emulate [Wunderlist](https://www.wunderlist.com) in some functionality and style. It allows for users to create lists that contain tasks, and each task has its own notes and due date attributes. You can play with this app over [here](https://honeydew-4nier.herokuapp.com).
 
-![first screen](/app/assets/images/Landing-honeydew.png)
+![first screen](img/honeydew/Landing-honeydew.png)
 
 Honeydew is a Ruby on Rails app utilizing Rails 5.1.4 (as of last update) and Ruby 2.4 . My aim was to create an app with forms that neatly nest within the elements and felt unobtrusive but easy to identify.
 
-![list show](/app/assets/images/list-show.png)
+![list show](img/honeydew/list-show.png)
 
 To that end, some styling was provided simply with css, as is the case with the drop down log-in.
 
-![log-in clip](/app/assets/images/log-in.jpg)
+![log-in clip](img/honeydew/log-in.jpg)
 
 But for other elements, it was achieved through jQuery. The collapsable sidebar-
 
-![menu collapsed](/app/assets/images/menu-collapsed.jpg)
+![menu collapsed](img/honeydew/menu-collapsed.jpg)
 
 is operated like so:
 
@@ -37,12 +37,12 @@ $(document).ready(function () {
 
 Very similar scripts operate the notes and due date sections for each task.
 
-![note closed](/app/assets/images/note-closed.jpg)
-![note open](/app/assets/images/note-open.jpg)
+![note closed](img/honeydew/note-closed.jpg)
+![note open](img/honeydew/note-open.jpg)
 
 An important difference though, is that because each task needed its own identifier in order to operate.
 
-![many notes open](/app/assets/images/many-notes.jpg)
+![many notes open](img/honeydew/many-notes.jpg)
 
 Changing the identifier to be dynamic, allows for an easy solution:
 
