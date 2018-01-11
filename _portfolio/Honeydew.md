@@ -3,7 +3,7 @@ layout: post
 title: Honeydew
 feature-img: "img/Landing-honeydew.png"
 thumbnail-path: "img/Landing-honeydew.png"
-short-description: Honeydew is task management app designed to be a simple and engaging UI.
+short-description: Honeydew is task management app designed to be a simple and engaging UI. 
 ---
 # Honeydew
 
