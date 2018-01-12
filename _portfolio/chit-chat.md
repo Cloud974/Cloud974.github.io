@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Bloc Chat
+title: Chit-Chat
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
 short-description: Bloc Chat is a chat application utilizing AngularJS and Firebase.
 
 ---
-Bloc Chat represents the second product- the first of which allows me freedom of design choices. Utilizing the AngularJS framework and the back-end support of Firebase, the real-time chat application marks my first adventure in interacting with a backend!
+Chit-Chat represents the second product- the first of which allows me freedom of design choices. Utilizing the AngularJS framework and the back-end support of Firebase, the real-time chat application marks my first adventure in interacting with a backend!
 
 With the freedom I had in this project also came some significant obstacles:
 
