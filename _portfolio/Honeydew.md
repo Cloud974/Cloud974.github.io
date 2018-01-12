@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Honeydew
-feature-img: "img/honeydew/scott-webb-cityscape/jpeg"
+feature-img: "img/honeydew/scott-webb-cityscape.jpeg"
 thumbnail-path: "img/honeydew/Landing-honeydew.png"
 short-description: A task management app designed to be a simple and engaging UI.
 ---
